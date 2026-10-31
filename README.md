@@ -12,10 +12,6 @@
 
 ## 👻 A little about me...
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarshhspeaks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
 I'm a CS student (class of 2028) from Bhubaneswar. I like turning ideas into working websites, and I use AI tools to build faster.
 
 Right now I'm learning **Java and DSA** to get stronger at problem solving, and I'm looking for a **software internship**.
@@ -36,18 +32,20 @@ const adarsh = {
 };
 ```
 
-## 🧩 My Projects (Clickable)
+## 🛠️ Stack
 
-<table align="center">
-  <tr>
-    <td><a href="https://github.com/Adarshhspeaks/hush"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarshhspeaks&repo=hush&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/Adarshhspeaks/Hospital-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarshhspeaks&repo=Hospital-management-system&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Adarshhspeaks/friend-quiz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarshhspeaks&repo=friend-quiz&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/Adarshhspeaks/adarsh-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adarshhspeaks&repo=adarsh-portfolio&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,postgres,sqlite,firebase,java,git,vercel&theme=dark" />
+</p>
+
+## 🧩 My Projects
+
+| | Project | Stack |
+|---|---|---|
+| 🔒 | [**hush**](https://github.com/Adarshhspeaks/hush)<br/>Anonymous end-to-end encrypted chat rooms with replies, message deletion and dark mode | `React` `Node.js` `Express` |
+| 🏥 | [**Hospital Management System**](https://github.com/Adarshhspeaks/Hospital-management-system)<br/>Role-based access, doctor scheduling, clinical records, pharmacy inventory | `React` `Express` `PostgreSQL` |
+| 🎯 | [**friend-quiz**](https://github.com/Adarshhspeaks/friend-quiz)<br/>A playful quiz website for friends | `React` `Vite` `Express` `SQLite` |
+| 🌐 | [**Portfolio**](https://github.com/Adarshhspeaks/adarsh-portfolio)<br/>Interactive 3D site with GSAP animations | `React` `Three.js` `GSAP` |
 
 > [!NOTE]
 > I build with AI tools and use Java + DSA to strengthen my fundamentals.
@@ -63,17 +61,11 @@ const adarsh = {
 </details>
 
 <details open>
-<summary><b>📊 Statistics</b></summary>
+<summary><b>📊 Activity</b></summary>
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adarshhspeaks&theme=onedark&no-frame=true&row=1&column=4" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshhspeaks&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshhspeaks&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://ghchart.rshah.org/A78BFA/Adarshhspeaks" width="100%" />
 </p>
 
 </details>
