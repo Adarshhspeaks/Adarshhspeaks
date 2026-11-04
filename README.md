@@ -1,71 +1,53 @@
-<h1 align="center">Hey there, I'm Adarsh! 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=140&section=header&text=Adarsh%20Kumar&fontSize=40&fontColor=ffffff&desc=I%20build%20websites%20with%20AI%20%C2%B7%20Java%20%26%20DSA%20%C2%B7%20CS%20'28&descSize=15&descAlignY=70" width="100%" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=I+build+websites+with+AI;CS+student+%C2%B7+Java+%26+DSA;Open+to+software+internships" alt="Typing SVG" /></a>
+  <a href="https://adarsh-portfolio-gamma-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adarsh1807"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <a href="https://adarsh-portfolio-gamma-six.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/adarsh1807"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Adarshhspeaks"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,postgres,sqlite,firebase,java,git&theme=dark" />
 </p>
 
-## 👻 A little about me...
+### Projects
 
-I'm a CS student (class of 2028) from Bhubaneswar. I like turning ideas into working websites, and I use AI tools to build faster.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Right now I'm learning **Java and DSA** to get stronger at problem solving, and I'm looking for a **software internship**.
+**[hush](https://github.com/Adarshhspeaks/hush)**
+Anonymous end-to-end encrypted chat rooms with replies, message deletion and dark mode.
 
-```js
-const adarsh = {
-  name: "Adarsh Kumar",
-  role: "CS student · class of 2028",
-  location: "Bhubaneswar, India",
-  workflow: "I build websites with AI",
-  languages: ["JavaScript", "Java"],
-  frontend: ["React", "GSAP", "Three.js"],
-  backend: ["Node.js", "Express"],
-  databases: ["PostgreSQL", "SQLite", "Firebase"],
-  tools: ["Git", "Vercel"],
-  learning: ["Java", "DSA"],
-  lookingFor: "Software internship",
-};
-```
+`React` `Node.js` `Express`
 
-## 🛠️ Stack
+</td>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,postgres,sqlite,firebase,java,git,vercel&theme=dark" />
-</p>
+**[Hospital Management System](https://github.com/Adarshhspeaks/Hospital-management-system)**
+Role-based access, doctor scheduling, clinical records and pharmacy inventory.
 
-## 🧩 My Projects
+`React` `Express` `PostgreSQL`
 
-| | Project | Stack |
-|---|---|---|
-| 🔒 | [**hush**](https://github.com/Adarshhspeaks/hush)<br/>Anonymous end-to-end encrypted chat rooms with replies, message deletion and dark mode | `React` `Node.js` `Express` |
-| 🏥 | [**Hospital Management System**](https://github.com/Adarshhspeaks/Hospital-management-system)<br/>Role-based access, doctor scheduling, clinical records, pharmacy inventory | `React` `Express` `PostgreSQL` |
-| 🎯 | [**friend-quiz**](https://github.com/Adarshhspeaks/friend-quiz)<br/>A playful quiz website for friends | `React` `Vite` `Express` `SQLite` |
-| 🌐 | [**Portfolio**](https://github.com/Adarshhspeaks/adarsh-portfolio)<br/>Interactive 3D site with GSAP animations | `React` `Three.js` `GSAP` |
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-> [!NOTE]
-> I build with AI tools and use Java + DSA to strengthen my fundamentals.
+**[friend-quiz](https://github.com/Adarshhspeaks/friend-quiz)**
+A playful quiz website for friends.
 
-<details open>
-<summary><b>🏆 Certificates</b></summary>
-<br/>
+`React` `Vite` `Express` `SQLite`
 
-- Introduction to Databases · Meta (Coursera)
-- Generative AI Foundations · upGrad
-- ISA Certified Control Systems Technician (CCST) · National Security Database
+</td>
+<td width="50%" valign="top">
 
-</details>
+**[Portfolio](https://github.com/Adarshhspeaks/adarsh-portfolio)**
+Interactive 3D site with GSAP animations.
 
-<details open>
-<summary><b>📊 Activity</b></summary>
-<br/>
+`React` `Three.js` `GSAP`
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/A78BFA/Adarshhspeaks" width="100%" />
-</p>
+</td>
+</tr>
+</table>
 
-</details>
+<p align="center"><sub>Looking for a software internship · Say hi on LinkedIn</sub></p>
